@@ -1,7 +1,33 @@
-1   <html>
-2     <head>
-3       <script src="http://popcornjs.org/code/dist/popcorn-complete.js"></script>
-4     </head>
-5     <body>
-6     </body>
-7   </html>
+<!doctype html>
+<html>
+  <head>
+    <script src="http://popcornjs.org/code/dist/popcorn-complete.min.js"></script>
+ 
+    <script>
+      // ensure the web page (DOM) has loaded
+      document.addEventListener("DOMContentLoaded", function () {
+ 
+           // Create a popcorn instance by calling the Youtube player plugin
+         var example = Popcorn.youtube(
+           '#video',
+           'https://www.youtube.com/watch?v=i4tTnIimi8E' );
+ 
+         // add a footnote at 2 seconds, and remove it at 6 seconds
+         example.footnote({
+           start: 2,
+           end: 6,
+           text: "Pop!",
+           target: "footnotediv"
+         });
+ 
+         // play the video right away
+         example.play();
+ 
+      }, false);
+    </script>
+  </head>
+  <body>
+    <div id="video" style="width: 560px; height: 315px;" ></div>
+    <div id="footnotediv"></div>
+  </body>
+</html>
