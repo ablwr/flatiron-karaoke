@@ -5,17 +5,18 @@ document.addEventListener("DOMContentLoaded", function () {
      'https://www.youtube.com/watch?v=i4tTnIimi8E' );
 
    pop.footnote({
-     [{start: 2,
-               end: 6,
-               text: "Pop!",
-               target: "footnotediv"},
-          
-{      start: 16,
-      end: 17,
+      start: 2,
+      end: 6,
+      text: "Pop!",
+      target: "footnotediv"
+   })
+   .footnote({
+      start: 16,
+      end: 18,
       text: "There used to be",
-      target: "footnotediv"}]
+      target: "footnotediv"
    });
-
+   
    pop.play();
 
 }, false);
