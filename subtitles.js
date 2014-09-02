@@ -5,374 +5,374 @@ document.addEventListener("DOMContentLoaded", function () {
      'https://www.youtube.com/watch?v=i4tTnIimi8E' );
 
    pop.footnote({
-      start: 2,
-      end: 6,
-      text: "Pop!",
+      start: 6,
+      end: 14,
+      text: "Baa yaa yaa ...",
       target: "footnotediv"
    })
    .footnote({
       start: 16,
-      end: 18,
+      end: 22,
       text: "There used to be a graying tower alone on the sea",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 23,
+      end: 29,
       text: "You became the light on the dark side of me",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 30,
+      end: 34,
       text: "Love remained a drug that's the high and not the pill",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 35,
+      end: 36,
       text: "But did you know",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 37,
+      end: 39,
       text: "That when it snows",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 40,
+      end: 42,
       text: "My eyes become large and",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 43,
+      end: 46,
       text: "The light that you shine can be seen",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 47,
+      end: 48,
       text: "BABY",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 50,
+      end: 52,
       text: "I compare you to a kiss from a rose on the gray",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 53,
+      end: 54,
       text: "OOOOH",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 55,
+      end: 57,
       text: "The more I get of you",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 58,
+      end: 59,
       text: "The stranger it feels, yeah",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 60,
+      end: 63,
       text: "And now that your rose is in bloom",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 64,
+      end: 69,
       text: "A light hits the gloom on the gray",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 75,
+      end: 78,
       text: "There is so much a man can tell you",
       target: "footnotediv"
    })   
    .footnote({
-      start: 16,
-      end: 18,
+      start: 79,
+      end: 81,
       text: "So much he can say",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 82,
+      end: 84,
       text: "You remain",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 85,
+      end: 86,
       text: "My power, my pleasure, my pain",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 87,
+      end: 90,
       text: "BABY",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 91,
+      end: 93,
       text: "To me you're like a growing addiction that I can't deny",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start:94,
+      end: 97,
       text: "Won't you tell me is that healthy, baby?",
       target: "footnotediv"
    })
   .footnote({
-      start: 16,
-      end: 18,
+      start: 98,
+      end: 99,
       text: "But did you know",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 100,
+      end: 101,
       text: "That when it snows",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 102,
+      end: 103,
       text: "My eyes become large and",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 104,
+      end: 107,
       text: "The light that you shine can be seen",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 108,
+      end: 109,
       text: "BABY",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 110,
+      end: 113,
       text: "I compare you to a kiss from a rose on the gray",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 115,
+      end: 116,
       text: "OOOOH",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 117,
+      end: 118,
       text: "The more I get of you",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 119,
+      end: 121,
       text: "The stranger it feels, yeah",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 122,
+      end: 124,
       text: "And now that your rose is in bloom",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 125,
+      end: 129,
       text: "A light hits the gloom on the gray",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
-      text: "I've been kissed by a rose",
-      target: "footnotediv"
-   })
-   .footnote({
-      start: 16,
-      end: 18,
+      start: 141,
+      end: 144,
       text: "I've been kissed by a rose on the gray",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
-      text: "And if I should fall along the way",
-      target: "footnotediv"
-   })
-   .footnote({
-      start: 16,
-      end: 18,
+      start: 145,
+      end: 148,
       text: "I've been kissed by a rose",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 155,
+      end: 158,
+      text: "(And if I should fall along the way)",
+      target: "footnotediv"
+   })
+   .footnote({
+      start: 159,
+      end: 161,
+      text: "I've been kissed by a rose",
+      target: "footnotediv"
+   })
+   .footnote({
+      start: 162,
+      end: 165,
       text: "I've been kissed by a rose on the gray",
       target: "footnotediv"
    })
   .footnote({
-      start: 16,
-      end: 18,
+      start: 166,
+      end: 168,
       text: "There is so much a man can tell you",
       target: "footnotediv"
    })   
    .footnote({
-      start: 16,
-      end: 18,
+      start: 169,
+      end: 171,
       text: "So much he can say",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 172,
+      end: 173,
       text: "You remain",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 174,
+      end: 178,
       text: "My power, my pleasure, my pain",
       target: "footnotediv"
    })
 .footnote({
-      start: 16,
-      end: 18,
+      start: 179,
+      end: 180,
       text: "To me you're like a growing addiction that I can't deny",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 190,
+      end: 199,
       text: "Won't you tell me is that healthy, baby?",
       target: "footnotediv"
    })
   .footnote({
-      start: 16,
-      end: 18,
+      start: 190,
+      end: 199,
       text: "But did you know",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 190,
+      end: 199,
       text: "That when it snows",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 190,
+      end: 199,
       text: "My eyes become large and",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 190,
+      end: 199,
       text: "The light that you shine can be seen",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 190,
+      end: 199,
       text: "BABY",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 190,
+      end: 199,
       text: "I compare you to a kiss from a rose on the gray",
       target: "footnotediv"
    })         
    .footnote({
-      start: 16,
-      end: 18,
+      start: 190,
+      end: 199,
       text: "OOOOH",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 190,
+      end: 199,
       text: "The more I get of you",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 190,
+      end: 199,
       text: "The stranger it feels, yeah",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 190,
+      end: 199,
       text: "Now that your rose is in bloom",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 190,
+      end: 199,
       text: "A light hits the gloom on the gray",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 190,
+      end: 199,
       text: "Yes I compare you to a kiss from a rose on the gray",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 190,
+      end: 199,
       text: "Ooh, the more I get of you",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 190,
+      end: 199,
       text: "The stranger it feels, yeah",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 190,
+      end: 199,
       text: "And now that your rose is in bloom",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 190,
+      end: 199,
       text: "A light hits the gloom on the gray",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 190,
+      end: 199,
       text: "Now that your rose is in bloom",
       target: "footnotediv"
    })
    .footnote({
-      start: 16,
-      end: 18,
+      start: 190,
+      end: 199,
       text: "A light hits the gloom on the gray",
       target: "footnotediv"
    });
