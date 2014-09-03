@@ -1,5 +1,6 @@
 .footnotediv {
   font-size: 140px;
+  text-align: center;
 }
 
 body {
@@ -9,4 +10,5 @@ body {
 
 h1 {
   color: white;
+  font-family: "Voces";
 }
