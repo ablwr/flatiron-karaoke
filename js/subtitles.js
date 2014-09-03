@@ -5,13 +5,8 @@ document.addEventListener("DOMContentLoaded", function () {
      'https://www.youtube.com/watch?v=i4tTnIimi8E' );
 
    pop.image({
-      start: 2,
-      end: 10,
-      target: "footnotediv",
-      src: "shocked.png"
-   }).image({
-      start: 2,
-      end: 10,
+      start: 117,
+      end: 118,
       target: "footnotediv",
       src: "shocked.png"
    });
