@@ -5,6 +5,11 @@ document.addEventListener("DOMContentLoaded", function () {
      'https://www.youtube.com/watch?v=i4tTnIimi8E' );
 
    pop.footnote({
+      start: 0,
+      end: 5,
+      text: "[ KISS FROM A ROSE ]",
+      target: "footnotediv"
+   }).footnote({
       start: 6,
       end: 14,
       text: "Baa yaa yaa ...",
