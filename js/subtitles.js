@@ -7,7 +7,12 @@ document.addEventListener("DOMContentLoaded", function () {
    pop.image({
       start: 2,
       end: 10,
-      target: "imagediv",
+      target: "footnotediv",
+      src: "shocked.png"
+   }).image({
+      start: 2,
+      end: 10,
+      target: "footnotediv",
       src: "shocked.png"
    });
 

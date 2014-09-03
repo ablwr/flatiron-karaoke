@@ -1,3 +1,12 @@
 .footnotediv {
   font-size: 140px;
 }
+
+body {
+  background: black;
+  color: white;
+}
+
+h1 {
+  color: white;
+}
