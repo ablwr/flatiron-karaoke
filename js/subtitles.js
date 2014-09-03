@@ -4,8 +4,15 @@ document.addEventListener("DOMContentLoaded", function () {
      '#video',
      'https://www.youtube.com/watch?v=i4tTnIimi8E' );
 
+   pop.image({
+      start: 2,
+      end: 10,
+      target: "imagediv",
+      src: "shocked.png"
+   });
+
    pop.footnote({
-      start: 0,
+      start: 3,
       end: 5,
       text: "[ KISS FROM A ROSE ]",
       target: "footnotediv"
@@ -340,6 +347,9 @@ document.addEventListener("DOMContentLoaded", function () {
       target: "footnotediv"
    });
 
+
 pop.play();
 
 }, false);
+
+
