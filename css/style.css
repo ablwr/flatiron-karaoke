@@ -13,3 +13,7 @@ h1, h2, h3 {
   color: white;
   font-family: "Voces";
 }
+
+h1 {
+  font-size: 72px;
+}
