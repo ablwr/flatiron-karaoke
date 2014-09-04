@@ -5,8 +5,8 @@ document.addEventListener("DOMContentLoaded", function () {
      'https://www.youtube.com/watch?v=i4tTnIimi8E' );
 
    pop.image({
-      start: 117,
-      end: 118,
+      start: 177,
+      end: 178,
       target: "footnotediv",
       src: "shocked.png"
    });
@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", function () {
    })
    .footnote({
       start: 30,
-      end: 34,
+      end: 36,
       text: "Love remained a drug that's the high and not the pill",
       target: "footnotediv"
    })
@@ -47,7 +47,7 @@ document.addEventListener("DOMContentLoaded", function () {
       target: "footnotediv"
    })
    .footnote({
-      start: 38,
+      start: 37,
       end: 39,
       text: "That when it snows",
       target: "footnotediv"
@@ -59,7 +59,7 @@ document.addEventListener("DOMContentLoaded", function () {
       target: "footnotediv"
    })
    .footnote({
-      start: 43,
+      start: 42,
       end: 46,
       text: "The light that you shine can be seen",
       target: "footnotediv"
@@ -72,7 +72,7 @@ document.addEventListener("DOMContentLoaded", function () {
    })
    .footnote({
       start: 49,
-      end: 52,
+      end: 53,
       text: "I compare you to a kiss from a rose on the gray",
       target: "footnotediv"
    })
@@ -84,18 +84,18 @@ document.addEventListener("DOMContentLoaded", function () {
    })
    .footnote({
       start: 55,
-      end: 57,
+      end: 56,
       text: "The more I get of you",
       target: "footnotediv"
    })
    .footnote({
-      start: 58,
+      start: 56,
       end: 59,
       text: "The stranger it feels, yeah",
       target: "footnotediv"
    })
    .footnote({
-      start: 60,
+      start: 59,
       end: 63,
       text: "And now that your rose is in bloom",
       target: "footnotediv"
@@ -108,7 +108,7 @@ document.addEventListener("DOMContentLoaded", function () {
    })
    .footnote({
       start: 75,
-      end: 78,
+      end: 79,
       text: "There is so much a man can tell you",
       target: "footnotediv"
    })   
@@ -119,25 +119,25 @@ document.addEventListener("DOMContentLoaded", function () {
       target: "footnotediv"
    })
    .footnote({
-      start: 81,
+      start: 82,
       end: 83,
       text: "You remain",
       target: "footnotediv"
    })
    .footnote({
       start: 84,
-      end: 86,
+      end: 88,
       text: "My power, my pleasure, my pain",
       target: "footnotediv"
    })
    .footnote({
-      start: 87,
+      start: 88,
       end: 90,
       text: "BABY",
       target: "footnotediv"
    })
    .footnote({
-      start: 91,
+      start: 90,
       end: 93,
       text: "To me you're like a growing addiction that I can't deny",
       target: "footnotediv"
@@ -161,26 +161,26 @@ document.addEventListener("DOMContentLoaded", function () {
       target: "footnotediv"
    })
    .footnote({
-      start: 101,
+      start: 100,
       end: 103,
       text: "My eyes become large and",
       target: "footnotediv"
    })
    .footnote({
-      start: 104,
-      end: 107,
+      start: 103,
+      end: 108,
       text: "The light that you shine can be seen",
       target: "footnotediv"
    })
    .footnote({
-      start: 108,
+      start: 109,
       end: 109,
       text: "BABY",
       target: "footnotediv"
    })
    .footnote({
-      start: 110,
-      end: 114,
+      start: 109,
+      end: 115,
       text: "I compare you to a kiss from a rose on the gray",
       target: "footnotediv"
    })
@@ -191,44 +191,50 @@ document.addEventListener("DOMContentLoaded", function () {
       target: "footnotediv"
    })
    .footnote({
-      start: 117,
-      end: 118,
+      start: 116,
+      end: 117,
       text: "The more I get of you",
       target: "footnotediv"
    })
    .footnote({
-      start: 119,
+      start: 118,
       end: 121,
       text: "The stranger it feels, yeah",
       target: "footnotediv"
    })
    .footnote({
       start: 122,
-      end: 124,
+      end: 125,
       text: "And now that your rose is in bloom",
       target: "footnotediv"
    })
    .footnote({
       start: 125,
-      end: 129,
+      end: 130,
       text: "A light hits the gloom on the gray",
       target: "footnotediv"
    })
    .footnote({
       start: 141,
-      end: 144,
+      end: 147,
       text: "I've been kissed by a rose on the gray",
       target: "footnotediv"
    })
    .footnote({
-      start: 145,
-      end: 153,
-      text: "I've been kissed by a rose",
+      start: 148,
+      end: 151,
+      text: "I've been kissed by a rose on the gray",
+      target: "footnotediv"
+   })
+   .footnote({
+      start: 151,
+      end: 158,
+      text: "I've been kissed by a rose on the gray",
       target: "footnotediv"
    })
    .footnote({
       start: 154,
-      end: 158,
+      end: 159,
       text: "(And if I should fall along the way)",
       target: "footnotediv"
    })
@@ -239,7 +245,7 @@ document.addEventListener("DOMContentLoaded", function () {
       target: "footnotediv"
    })
    .footnote({
-      start: 162,
+      start: 160,
       end: 164,
       text: "I've been kissed by a rose on the gray",
       target: "footnotediv"
@@ -251,26 +257,26 @@ document.addEventListener("DOMContentLoaded", function () {
       target: "footnotediv"
    })   
    .footnote({
-      start: 169,
-      end: 171,
+      start: 168,
+      end: 170,
       text: "So much he can say",
       target: "footnotediv"
    })
    .footnote({
-      start: 172,
-      end: 172,
+      start: 170,
+      end: 171,
       text: "You remain",
       target: "footnotediv"
    })
    .footnote({
-      start: 173,
+      start: 171,
       end: 177,
       text: "My power, my pleasure, my pain",
       target: "footnotediv"
    })
 .footnote({
       start: 178,
-      end: 180,
+      end: 181,
       text: "To me you're like a growing addiction that I can't deny",
       target: "footnotediv"
    })
@@ -287,7 +293,7 @@ document.addEventListener("DOMContentLoaded", function () {
       target: "footnotediv"
    })
    .footnote({
-      start: 187,
+      start: 186,
       end: 187,
       text: "That when it snows",
       target: "footnotediv"
@@ -299,31 +305,31 @@ document.addEventListener("DOMContentLoaded", function () {
       target: "footnotediv"
    })
    .footnote({
-      start: 193,
+      start: 192,
       end: 196,
       text: "The light that you shine can be seen",
       target: "footnotediv"
    })
    .footnote({
-      start: 197,
+      start: 196,
       end: 199,
       text: "BABY",
       target: "footnotediv"
    })
    .footnote({
-      start: 200,
-      end: 201,
+      start: 199,
+      end: 202,
       text: "I compare you to a kiss from a rose on the gray",
       target: "footnotediv"
    })         
    .footnote({
-      start: 202,
+      start: 203,
       end: 203,
       text: "OOOOH",
       target: "footnotediv"
    })
    .footnote({
-      start: 204,
+      start: 203,
       end: 205,
       text: "The more I get of you",
       target: "footnotediv"
