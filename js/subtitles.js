@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function () {
       target: "footnotediv"
    })
    .footnote({
-      start: 40,
+      start: 49,
       end: 42,
       text: "My eyes become large and",
       target: "footnotediv"
@@ -65,7 +65,7 @@ document.addEventListener("DOMContentLoaded", function () {
       target: "footnotediv"
    })
    .footnote({
-      start: 47,
+      start: 46,
       end: 48,
       text: "BABY",
       target: "footnotediv"
