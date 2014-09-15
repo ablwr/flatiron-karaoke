@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
    });
 
    pop.footnote({
-      start: 3,
+      start: 2,
       end: 5,
       text: "[ KISS FROM A ROSE ]",
       target: "footnotediv"
@@ -143,7 +143,7 @@ document.addEventListener("DOMContentLoaded", function () {
       target: "footnotediv"
    })
    .footnote({
-      start:94,
+      start: 94,
       end: 97,
       text: "Won't you tell me is that healthy, baby?",
       target: "footnotediv"
