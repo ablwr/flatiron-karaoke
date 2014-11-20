@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
    var pop = Popcorn.youtube(
      '#video',
-     'https://www.youtube.com/watch?v=i4tTnIimi8E' );
+     'http://www.youtube.com/watch?v=RApYELCEwjI' );
 
    pop.image({
       start: 177,
@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
    });
 
    pop.footnote({
-      start: 3,
+      start: 2,
       end: 5,
       text: "[ KISS FROM A ROSE ]",
       target: "footnotediv"
@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function () {
       target: "footnotediv"
    })
    .footnote({
-      start: 40,
+      start: 49,
       end: 42,
       text: "My eyes become large and",
       target: "footnotediv"
@@ -65,7 +65,7 @@ document.addEventListener("DOMContentLoaded", function () {
       target: "footnotediv"
    })
    .footnote({
-      start: 47,
+      start: 46,
       end: 48,
       text: "BABY",
       target: "footnotediv"
@@ -143,7 +143,7 @@ document.addEventListener("DOMContentLoaded", function () {
       target: "footnotediv"
    })
    .footnote({
-      start:94,
+      start: 94,
       end: 97,
       text: "Won't you tell me is that healthy, baby?",
       target: "footnotediv"
