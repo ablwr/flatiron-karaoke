@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
    var pop = Popcorn.youtube(
      '#video',
-     'http://www.youtube.com/watch?v=RApYELCEwjI' );
+     'https://www.youtube.com/v/ateQQc-AgEM' );
 
    pop.image({
       start: 177,
